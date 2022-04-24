@@ -1,4 +1,4 @@
-# Red-Eyes<hr>
+# Red-Eyes
 
 # О нас
 
